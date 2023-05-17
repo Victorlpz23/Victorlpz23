@@ -8,15 +8,15 @@ JavaScript JavaScript (ES6)
 
 🚀 Tecnologías:
 React 
-Node.js Node.js
-MongoDB MongoDB
-Express Express
-HTML5 HTML5
-CSS3 CSS3
-Bootstrap Bootstrap 5
-Tailwind CSS Tailwind CSS
-Jest Jest
-Postman Postman
+Node.js
+MongoDB
+Express
+HTML5
+CSS3
+Bootstrap 5
+Tailwind CSS 
+Jest 
+Postman 
 
 
 💡 Proyectos Destacados
@@ -26,6 +26,6 @@ Postman Postman
 
 📫 Contacto
 ¡No dudes en contactarme si tienes alguna pregunta o si quieres colaborar en un proyecto emocionante! Puedes encontrarme en:
-💼 LinkedIn: [Enlace a tu perfil de LinkedIn]
+💼 LinkedIn:
 
 ¡Espero poder conectarme contigo y colaborar juntos en el futuro! 😊
